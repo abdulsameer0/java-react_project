@@ -21,5 +21,5 @@ npm start
 ## ✅ PostgreSQL Table
 Run `db/create_note_table.sql` to create table.
 
-url - http://localhost:8080
+url - http://localhost:8080/api/note
 url - http://localhost:3000
